@@ -1,0 +1,13 @@
+{
+  "name": "web3-qa-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "ipfs-http-client": "^54.0.2",
+    "openpgp": "^5.0.0"
+  }
+}
