@@ -39,7 +39,7 @@ npm -v
 In your preferred directory, clone the repository from GitHub:
 
 bash
-git clone [https://github.com/yourusername/web3-qa-app.git](https://github.com/Decentralized-AI-core/DeAI-Core.git)
+git clone [https://github.com/Decentralized-AI-core/DeAI-Core.git](https://github.com/Decentralized-AI-core/DeAI-Core.git)
 cd web3-qa-app
 
 
