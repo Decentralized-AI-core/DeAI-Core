@@ -38,9 +38,10 @@ npm -v
 
 In your preferred directory, clone the repository from GitHub:
 
-bash
+#bash
+
 git clone [https://github.com/Decentralized-AI-core/DeAI-Core.git](https://github.com/Decentralized-AI-core/DeAI-Core.git)
-cd web3-qa-app
+cd DeAI-Core
 
 
 #### Step 3: Install Dependencies
